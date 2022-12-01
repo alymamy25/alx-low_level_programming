@@ -1,5 +1,6 @@
-#include <stdio.h>
 #include "main.h"
+#include <unistd.h>
+#include <limits.h>
 
 /**
  * print_binary - print an unsigned int in binary
